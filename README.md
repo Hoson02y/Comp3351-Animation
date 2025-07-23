@@ -25,8 +25,7 @@ Each folder represents a different modeling or animation concept, including:
   - Job market demand  
   - Learning documentation
 
-## 📷 Final Preview:
-![Cup Model Render](./1191003_HosonHasqoor.png)
+
 
 ## 🛠 Tools Used:
 - Blender 3.x
